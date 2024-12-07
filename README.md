@@ -1,0 +1,1 @@
+In this study, the f90 code used for the calculations requires some environmental setup before it can be directly called in Abaqus. There are many tutorials available online, such as: https://www.jishulink.com/post/1304342
